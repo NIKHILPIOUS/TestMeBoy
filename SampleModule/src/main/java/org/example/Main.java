@@ -17,13 +17,14 @@ public class Main {
         System.out.println("I AM FROM MAC");
     }
 
-    public void pleaseTouchMeThree(){
-        System.out.println("I AM FROM MAC");
-    }
-
     public void dontTouchMeTwo(){
         System.out.println("I am from windows");
     }
+
+    public void pleaseTouchMeFour(){
+        System.out.println("I AM FROM MAC");
+    }
+
 
 
 }
