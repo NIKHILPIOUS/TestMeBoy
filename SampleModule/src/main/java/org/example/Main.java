@@ -16,4 +16,10 @@ public class Main {
     public void pleaseTouchMeTwo(){
         System.out.println("I AM FROM MAC");
     }
+
+    public void dontTouchMeTwo(){
+        System.out.println("I am from windows");
+    }
+
+
 }
